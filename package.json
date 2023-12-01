@@ -1,6 +1,6 @@
 {
   "name": "query-builder-vue-3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": "https://github.com/kwesterfeld2/vue-query-builder/tree/vue3-composition",
   "description": "A query-builder library for Vue.js ported to Vue 3 by kwesterfeld2",
