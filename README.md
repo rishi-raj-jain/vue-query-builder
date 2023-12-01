@@ -1,12 +1,12 @@
 [![CI Testing](https://github.com/rtucek/vue-query-builder/actions/workflows/ci-testing.yml/badge.svg)](https://github.com/rtucek/vue-query-builder/actions/workflows/ci-testing.yml)
 [![CI Build](https://github.com/rtucek/vue-query-builder/actions/workflows/ci-build.yml/badge.svg)](https://github.com/rtucek/vue-query-builder/actions/workflows/ci-build.yml)
 [![Lint](https://github.com/rtucek/vue-query-builder/actions/workflows/lint.yml/badge.svg)](https://github.com/rtucek/vue-query-builder/actions/workflows/lint.yml)
-[![npm version](https://img.shields.io/npm/v/query-builder-vue3)](https://www.npmjs.com/package/query-builder-vue3)
-[![MIT LICENSE](https://img.shields.io/npm/l/query-builder-vue3)](https://github.com/rtucek/vue-query-builder/blob/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/query-builder-vue-3)](https://www.npmjs.com/package/query-builder-vue-3)
+[![MIT LICENSE](https://img.shields.io/npm/l/query-builder-vue-3)](https://github.com/rtucek/vue-query-builder/blob/master/LICENSE)
 
-# Vue Query Builder
+# Vue 3 Query Builder
 
-A query-builder for Vue.
+A query-builder for Vue ported to Vue 3.
 
 
 ## Demos
@@ -31,8 +31,8 @@ Key features:
 ## Installation
 
 ```bash
-yarn add query-builder-vue3
-npm install query-builder-vue3
+yarn add query-builder-vue-3
+npm install query-builder-vue-3
 ```
 
 Follow the docs for [minimum
@@ -43,3 +43,8 @@ configuration](https://rtucek.github.io/vue-query-builder/getting-started.html#u
 
 [Contribution guidelines](https://rtucek.github.io/vue-query-builder/contributing.html) are located
 in the documentation.
+
+## Major Props To
+
+- https://github.com/rtucek/vue-query-builder/pull/93
+- @kwesterfeld2

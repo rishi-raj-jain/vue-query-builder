@@ -1,12 +1,12 @@
 {
-  "name": "query-builder-vue3",
-  "version": "1.2.0",
+  "name": "query-builder-vue-3",
+  "version": "1.0.0",
   "license": "MIT",
-  "repository": "https://github.com/rtucek/vue-query-builder",
-  "description": "A query-builder library for Vue.js",
+  "repository": "https://github.com/kwesterfeld2/vue-query-builder/tree/vue3-composition",
+  "description": "A query-builder library for Vue.js ported to Vue 3 by kwesterfeld2",
   "author": {
-    "name": "Rudolf Tucek",
-    "url": "https://github.com/rtucek/"
+    "name": "kwesterfeld2",
+    "url": "https://github.com/kwesterfeld2/"
   },
   "keywords": [
     "drag'n'drop",
@@ -14,7 +14,8 @@
     "themeable",
     "TypeScript",
     "Vue",
-    "Vuex support"
+    "Vuex support",
+    "Vue 3"
   ],
   "scripts": {
     "preversion-test": "echo \"Running tests for version $npm_package_version...\" && yarn run test:unit",
@@ -26,8 +27,8 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "main": "./dist/query-builder-vue3.umd.js",
-  "module": "./dist/query-builder-vue3.js",
+  "main": "./dist/query-builder-vue-3.umd.js",
+  "module": "./dist/query-builder-vue-3.js",
   "type": "module",
   "types": "./types/index.d.ts",
   "files": [
