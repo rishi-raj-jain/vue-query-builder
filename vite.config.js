@@ -10,7 +10,7 @@ export default defineConfig({
     lib: {
       entry: resolve(__dirname, './src/index.ts'),
       name: 'QueryBuilderVue',
-      fileName: 'query-builder-vue',
+      fileName: 'query-builder-vue3',
     },
     minify: false,
     sourcemap: true,

@@ -1,5 +1,5 @@
 {
-  "name": "query-builder-vue",
+  "name": "query-builder-vue3",
   "version": "1.2.0",
   "license": "MIT",
   "repository": "https://github.com/rtucek/vue-query-builder",
@@ -26,8 +26,8 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "main": "./dist/query-builder-vue.umd.js",
-  "module": "./dist/query-builder-vue.js",
+  "main": "./dist/query-builder-vue3.umd.js",
+  "module": "./dist/query-builder-vue3.js",
   "type": "module",
   "types": "./types/index.d.ts",
   "files": [

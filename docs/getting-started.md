@@ -13,8 +13,8 @@ Add the library with either npm or yarn - simply run one of the following comman
 
 
 ```bash
-yarn add query-builder-vue
-npm install query-builder-vue
+yarn add query-builder-vue3
+npm install query-builder-vue3
 ```
 
 You may also use the pre-transpiled dist files from the Unpkg.com CDN - simply add, but don't forget
@@ -22,7 +22,7 @@ to import Vue too!
 
 
 ```html
-<script src="https://unpkg.com/query-builder-vue@latest/dist/query-builder-vue.umd.min.js"></script>
+<script src="https://unpkg.com/query-builder-vue3@latest/dist/query-builder-vue3.umd.min.js"></script>
 ```
 
 
@@ -48,7 +48,7 @@ It just requires a minimum configuration.
 </template>
 
 <script>
-import QueryBuilder from "query-builder-vue";
+import QueryBuilder from "query-builder-vue3";
 
 import Input from "./components/Input.vue";
 import Number from "./components/Number.vue";
